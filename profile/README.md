@@ -17,7 +17,9 @@ Uno de los puntos destacados de Zoritropa APK es su estética visual. Con un est
 ## ❓ Preguntas Frecuentes
 
 ¿Es gratuita? Sí.
+
 ¿Requiere conexión a internet? No necesariamente.
+
 ¿Está disponible en Play Store? No.
 
 ## 📝 Conclusión
